@@ -1,3 +1,3 @@
-#Kwan
-Student
-Payap University
+#Kwan-
+Student-
+Payap University-
