@@ -3,27 +3,27 @@
 
 # My CV 
 
-## My Bio
+### My Bio
 > Name: Kwan  
 > Gender: Male  
 > Address: Chiang Mai, Thailand
 
-## Education
+### Education
 > High School
 > Bachelor of Business Administration at Payap University
 > Associate Degree of Social Science at Shan Community College
 
-## Experience
+### Experience
 > Freelancer as translator, and Canva Logo designer
 > Digital and Social Media Marketing Intern at The Borgen Project
 > Volunteer teacher at SNL
 
-## Interest
+### Interest
 > Web development
 > Data Science
 > Data Analysis
 > Game Development
 
-## Contact
+### Contact
 > Phone no: 09-123456789  
 > asdf@gmail.com
